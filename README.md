@@ -5,7 +5,7 @@
 ## Project Overview
 A backend system for managing vacation bookings, developed using Java and Spring Boot. It handles essential business logic, including customer management, order processing, and entity relationships.
 ## Technologies Used
-- **Java 11**: Core programming language
+- **Java 17**: Core programming language
 - **Spring Boot**: Framework for building RESTful APIs
 - **JPA/Hibernate**: ORM for database interactions
 - **MySQL**: Database for data storage
